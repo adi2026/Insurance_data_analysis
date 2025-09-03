@@ -30,7 +30,7 @@ This project helped me improve my skills in Power BI, DAX, Data Modeling, SQL, a
 Screenshort  / Demo
 
 Show what the Dashboard looks like: ![Alt text]("https://github.com/user)
-Example : ![Dashboard Preview](<https://github.com/user-attachments/assets/3a52bfce-7cad-490d-b9d1-70b812d2702e" />)
+Example : ![Dashboard Preview](https://github.com/adi2026/Insurance_data_analysis/blob/main/Insurance_data_analystScreenshot%202025-09-03%20141651.png)
 
 
 
