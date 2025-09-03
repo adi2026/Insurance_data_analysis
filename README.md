@@ -29,9 +29,8 @@ This project helped me improve my skills in Power BI, DAX, Data Modeling, SQL, a
 
 Screenshort  / Demo
 
-Show what the Dashboard looks like: ![alt text]("https://github.com/user)
-
-Example : ![Dashboard Preview](<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3a52bfce-7cad-490d-b9d1-70b812d2702e" />)
+Show what the Dashboard looks like: ![Alt text]("https://github.com/user)
+Example : ![Dashboard Preview](<https://github.com/user-attachments/assets/3a52bfce-7cad-490d-b9d1-70b812d2702e" />)
 
 
 
