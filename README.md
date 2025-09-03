@@ -1,6 +1,8 @@
  Insurance Data Analysis Dashboard using Power BI
+
  
 #Project Title / Headline
+
 Interactive Insurance Data Analysis Dashboard built using Power BI and SQL Server.
 It provides insights into policies, claims, customers, and revenue to support data-driven decision-making.
 
