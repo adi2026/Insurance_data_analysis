@@ -1,11 +1,14 @@
-Title:
-📊 Insurance Data Dashboard | Power BI Project 🚀
+ Insurance Data Analysis Dashboard using Power BI
+ 
+#Project Title / Headline
+Interactive Insurance Data Analysis Dashboard built using Power BI and SQL Server.
+It provides insights into policies, claims, customers, and revenue to support data-driven decision-making.
 
-Post Content:
+#Short Description / Purpose
 
-I recently created an Insurance Data Dashboard using Power BI to analyze and visualize key insights about policies, claims, customer demographics, and revenue trends.
+The purpose of this Insurance Data Analysis project is to analyze and visualize key insights related to policies, claims, customers, and revenue using Power BI. The dashboard helps track overall business performance, identify trends, monitor claim settlements, understand customer demographics, and support data-driven decision-making for improving operational efficiency and profitability.
 
-🔹 Project Highlights:
+#Tech Stack
 
 Data Source: Imported data from Microsoft SQL Server
 
